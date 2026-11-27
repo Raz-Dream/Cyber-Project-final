@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+baseline.json
+hasil.json
+.vscode/
+*.code-workspace
